@@ -1,7 +1,8 @@
 <HTML> <HEAD> <TITLE> Practice Practical </TITLE> <HEAD>
 <BODY BGCOLOUR = "BLACK">
 
-<FONT FACE="Chiller" SIZE="32" COLOUR="red"> Bhoot
+<FONT FACE="Chiller" SIZE="32" COLOUR="Blue"> Bhoot
 </FONT>
 </BODY>
+
 </HTML>
